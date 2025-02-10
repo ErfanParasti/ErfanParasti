@@ -38,11 +38,8 @@
 ###
 
 <div align="left">
-  <p align="left">"I am always looking to learn new technologies and solve challenges in creative and practical ways. I pay close attention to detail and quality of work, and I strive to deliver a result in every project that both performs well and creates a good user experience."<p>
+  <p align="left">I am always looking to learn new technologies and solve challenges in creative and practical ways. I pay close attention to detail and quality of work, and I strive to deliver a result in every project that both performs well and creates a good user experience.<p>
 </div>
-
-###
-
 
 ###
 
