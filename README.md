@@ -45,8 +45,6 @@
 
 <hr>
 
-<br clear="both">
-
 <img src="./workflows/svgexport-1.svg" alt="Snake animation" />
 
 
